@@ -4,9 +4,7 @@ For this challenge you’ll be planning and implementing a formatting strategy f
 
 1.	Determine a heading strategy.
              a.	Applies to: All pages
-             b.	Explore each of the pages (intro.htm, links.htm, next.htm, reference.htm, structure.htm and syntax.htm) and carefully read through the text.
-             c.	Determine which content should be represented as headings, and then which level of headings you should use for each page. Focus on being consistent in how you assign headings for each page.
-             d.	Go through each of the pages, and format headings based on your strategy.
+    
 
 2.	Format paragraphs
              a.	Applies to: intro.htm
